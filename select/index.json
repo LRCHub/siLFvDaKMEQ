@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Speechless",
+  "base_artist": "内田雄馬",
+  "createdAt": "2026-03-15T22:17:27.722935Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Speechless",
+      "artist": "Dan + Shay",
+      "has_synced": true,
+      "path": "select/01_Speechless_Dan_+_Shay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Speechless (Acoustic)",
+      "artist": "Dan + Shay",
+      "has_synced": true,
+      "path": "select/02_Speechless_(Acoustic)_Dan_+_Shay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Speechless",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/03_Speechless_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Speechless",
+      "artist": "Laurie Anderson",
+      "has_synced": true,
+      "path": "select/04_Speechless_Laurie_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Speechless Tape",
+      "artist": "NGLY",
+      "has_synced": false,
+      "path": "select/05_Speechless_Tape_NGLY.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Speechless",
+      "artist": "Cibo Matto",
+      "has_synced": false,
+      "path": "select/06_Speechless_Cibo_Matto.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Speechless",
+      "artist": "Cibo Matto",
+      "has_synced": true,
+      "path": "select/07_Speechless_Cibo_Matto.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Speechless",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/08_Speechless_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Speechless",
+      "artist": "Helmet",
+      "has_synced": true,
+      "path": "select/09_Speechless_Helmet.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Speechless",
+      "artist": "Fenix TX",
+      "has_synced": true,
+      "path": "select/10_Speechless_Fenix_TX.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Speechless",
+      "artist": "The Veronicas",
+      "has_synced": true,
+      "path": "select/11_Speechless_The_Veronicas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Speechless",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/12_Speechless_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Speechless",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/13_Speechless_Beyoncé.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Speechless",
+      "artist": "内田雄馬",
+      "has_synced": false,
+      "path": "select/pl_01_Speechless_内田雄馬.txt"
+    }
+  ]
+}
